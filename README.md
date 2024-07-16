@@ -1,8 +1,8 @@
 # Data Scientist
 
 ## Education
-- Purwadhika Digital Technology School (March 2024 - July 2024)
-- Business Administration | Universitas Terbuka (2015-2019)
+- Data Science and Machine Learning @ Purwadhika Digital Technology School (March 2024 - July 2024)
+- Business Administration @ Universitas Terbuka (2015-2019)
 
 ## Work Experience
 Associate @ KPMG Indonesia (September 2019 - February 2020)
