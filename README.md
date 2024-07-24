@@ -7,6 +7,13 @@
 ## Work Experience
 Associate @ KPMG Indonesia (September 2019 - February 2020)
 
+## Skills and Expertise
+- Programming Languages: Python, SQL
+- Data Analysis: Exploratory Data Analysis, Statistics
+- Machine Learning: Supervised and Unsupervised Learning
+- Tools and Technologies: Pandas, NumPy, Scikit-learn
+- Data Visualisation: Matplotlib, Seaborn, Tableau
+
 ## Projects
 ### Grocery Store Management System
 [Github Repository](https://github.com/arifhadiyan/Capstone-1)
