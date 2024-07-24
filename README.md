@@ -9,8 +9,13 @@ Associate @ KPMG Indonesia (September 2019 - February 2020)
 
 ## Projects
 ### Grocery Store Management System
+[Github Repository](https://github.com/arifhadiyan/Capstone-1)
+
 ### Online Retail Shipping
+[Github Repository](https://github.com/arifhadiyan/Capstone-1)
+
 ### Customer Lifetime Value
+[Github Repository](https://github.com/arifhadiyan/customer-lifetime-value)
 
 ## Publications
 1. Itertools Module in Python
